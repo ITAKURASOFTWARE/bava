@@ -48,7 +48,7 @@ button:hover, a:hover {
   <img src="https://source.unsplash.com/1600x900/?man,boy" alt="John" style="width:100%">
   <h1>John Doe</h1>
   <p class="title">CEO & Founder, Example</p>
-  <p>Harvard University</p>
+  <p>bava</p>
   <div style="margin: 24px 0;">
     <a href="#"><i class="fa fa-dribbble"></i></a> 
     <a href="#"><i class="fa fa-twitter"></i></a>  
