@@ -45,8 +45,8 @@ button:hover, a:hover {
 <h2 style="text-align:center">User Profile Card</h2>
 
 <div class="card">
-  <img src="https://source.unsplash.com/1600x900/?man,boy" alt="John" style="width:100%">
-  <h1>John Doe</h1>
+  <img src="https://source.unsplash.com/1600x900/?man,boy" alt="bava" style="width:100%">
+  <h1>bavayan</h1>
   <p class="title">CEO & Founder, Example</p>
   <p>bava</p>
   <div style="margin: 24px 0;">
