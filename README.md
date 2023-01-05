@@ -47,7 +47,7 @@ button:hover, a:hover {
 <div class="card">
   <img src="https://source.unsplash.com/1600x900/?man,boy" alt="bava" style="width:100%">
   <h1>bavayan</h1>
-  <p class="title">CEO & Founder, Example</p>
+  <p class="title">swk & qonara, maza</p>
   <p>bava</p>
   <div style="margin: 24px 0;">
     <a href="#"><i class="fa fa-dribbble"></i></a> 
