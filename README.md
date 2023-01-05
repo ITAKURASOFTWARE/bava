@@ -45,7 +45,7 @@ button:hover, a:hover {
 <h2 style="text-align:center">User Profile Card</h2>
 
 <div class="card">
-  <img src="https://source.unsplash.com/1600x900/?man,boy" alt="bava" style="width:100%">
+  <img src="https://imgs.search.brave.com/osUzOIrQdH8uWCO7uxwBVVa_wqhJPdKx3KbnXYH3d5g/rs:fit:1200:1024:1/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS84Ny80/L3hYRklmMi5qcGc>
   <h1>bavayan</h1>
   <p class="title">swk & qonara, maza</p>
   <p>bava</p>
