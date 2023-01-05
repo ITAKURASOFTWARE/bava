@@ -45,10 +45,10 @@ button:hover, a:hover {
 <h2 style="text-align:center">User Profile Card</h2>
 
 <div class="card">
-  <img src="https://imgs.search.brave.com/osUzOIrQdH8uWCO7uxwBVVa_wqhJPdKx3KbnXYH3d5g/rs:fit:1200:1024:1/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS84Ny80/L3hYRklmMi5qcGc>
-  <h1>bavayan</h1>
-  <p class="title">swk & qonara, maza</p>
-  <p>bava</p>
+  <img src="https://source.unsplash.com/1600x900/?man,boy" alt="John" style="width:100%">
+  <h1>John Doe</h1>
+  <p class="title">CEO & Founder, Example</p>
+  <p>Harvard University</p>
   <div style="margin: 24px 0;">
     <a href="#"><i class="fa fa-dribbble"></i></a> 
     <a href="#"><i class="fa fa-twitter"></i></a>  
